@@ -5,7 +5,7 @@
 <p>🌱 I’m currently learning  DSA along with AWS_DevOps,Azure_DevOps</p>
 <p>💬 Trying to get the best version of Myself</p>
 <p>⚡ I love Full Stack Development</p>
-- 📝 I regularly write articles on [https://hashnode.com/@RVVLakshmi](https://hashnode.com/@RVVLakshmi)
+- 📝 I regularly write articles on [https://hashnode.com/@RVVLakshmi]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
