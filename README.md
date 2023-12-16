@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
 <p>🔭 I’m currently working on "DevOps_Tools"</p>
 <p>🌱 I’m currently learning  DSA along with AWS_DevOps,Azure_DevOps</p>
-<p>💬 Trying to get the best version of Myself</p>
+<p>💬 Trying to get the best version of Myself inside and outside</p>
 <p>⚡ I love Full Stack Development</p>
 - 📝 I regularly write articles on [https://hashnode.com/@RVVLakshmi]
 
